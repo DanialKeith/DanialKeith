@@ -16,10 +16,10 @@
 
 ### In this section, I focus on projects that leverage Azure's cloud infrastructure to enhance cybersecurity defenses and incident analysis.
 
-- **[Azure Incident Analysis](https://github.com/DanialKeith/AzureIncidentAnalysis)** - Post-mortem analysis and reporting on a security incident within Azure platforms.
 - **[Azure Virtual Machine Prep](https://github.com/DanialKeith/AzureVirtualMachinePrep)** - Set up honeypot Azure VMs with open security settings for cyber threat analysis.
 - **[Creating a Live SOC Honey Net in Azure](https://github.com/DanialKeith/LiveSOCHoneyNetAzure)** - Deploy honeypots in Azure to monitor and analyze live cyber-attack patterns.
-
+- **[Azure Incident Analysis](https://github.com/DanialKeith/AzureIncidentAnalysis)** - Post-mortem analysis and reporting on a security incident within Azure platforms.
+  
 ## 📊 KQL Analytics
 
 ### Here are projects where I utilize Kusto Query Language to extract insights from large datasets and improve security monitoring.
