@@ -1,6 +1,6 @@
 # Welcome to Danial Keith's GitHub Portfolio
 
-### 👋 Hi there! I'm Danial Keith, a cybersecurity enthusiast focused on innovative security solutions in cloud and network environments. Through my GitHub portfolio, you'll find projects ranging from Azure VM honeypots to sophisticated KQL data analytics. My work showcases hands-on experiences with Azure, Windows Server, and Microsoft Entra, illustrating my commitment to enhancing digital security landscapes. Dive in to explore how I use technology to fortify and analyze digital systems against evolving cyber threats.
+### 👋 Hi there! I'm Danial Keith, a cybersecurity enthusiast focused on innovative security solutions in cloud and network environments. Through my GitHub portfolio, you'll find projects ranging from Azure VM honeypots to sophisticated KQL data analytics. My work illustrates my commitment to enhancing digital security landscapes. Dive in to explore how I use technology to fortify and analyze digital systems against evolving cyber threats.
 
 ## 🛠️ My Projects
 
