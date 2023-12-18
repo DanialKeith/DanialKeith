@@ -26,7 +26,7 @@
 
 - **[Enhancing Security with KQL Monitoring Successful User Logins and Logon Types](https://github.com/DanialKeith/KQLMonitoringSecurity)** - Leveraging KQL for analyzing and visualizing security logins and events.
 
-## ☁️ AWS Security Initiatives
+## ☁️ AWS Security
 
 ### This collection is dedicated to my work within the AWS ecosystem, focusing on the analysis of malware threats.
 
@@ -40,7 +40,7 @@
 
 ---
 
-### ← Connect with Me: [<img align="left" alt="DanialKeith | LinkedIn" width="29px" src="https://www.iconpacks.net/icons/2/free-linkedin-logo-icon-2430-thumb.png" />](https://www.linkedin.com/in/danial-keith/)
+### ← Connect with Me [<img align="left" alt="DanialKeith | LinkedIn" width="29px" src="https://www.iconpacks.net/icons/2/free-linkedin-logo-icon-2430-thumb.png" />](https://www.linkedin.com/in/danial-keith/)
 
 
 
