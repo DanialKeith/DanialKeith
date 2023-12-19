@@ -30,6 +30,7 @@
 
 ### This collection is dedicated to my work within the AWS ecosystem, focusing on the analysis of malware threats.
 
+- **[Cloud-Hosted Malware Analysis Machine](https://github.com/DanialKeith/Cloud-HostedMalwareAnalysisMachine)** - Providing resources for safe and efficient malware investigation.
 - **[Zeus (Zbot) Banking Trojan - Malware Analysis](https://github.com/DanialKeith/ZeusZbotMalwareAnalysis)** - Dissecting the Zeus Trojan to understand its impact on AWS-hosted services.
 
 ## 🆔 Identity and Access Management
